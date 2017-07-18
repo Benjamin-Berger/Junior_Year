@@ -1,0 +1,16 @@
+
+Gertrude20.txt is the Price List file for Market File MarketPrice20.txt
+Gertrude21.txt is the Price List file for Market File MarketPrice21.txt
+Gertrude22.txt is the Price List file for Market File MarketPrice22.txt
+GertrudeThree.txt is the Price List file for Market File MarketPriceThree.txt
+
+Each of the first three sample tests has one problem per Price List file.
+The 4th sample test has all four problems in a single Price List file.
+
+Your program should write to output file output.txt. The contents of output.txt
+has been copied to Output21.txt, Output22.txt, Output23.txt, and OutputThree.txt.
+
+Timing information has been replaced by 0.0 for all tests.  Your program will
+begin to take a measurable amount of time for problem sizes similar to those
+included in this test. 
+

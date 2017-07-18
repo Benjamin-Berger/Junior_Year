@@ -1,0 +1,25 @@
+20 552 8 0.0
+Player1
+Player3
+Player4
+Player6
+Player8
+Player9
+Player18
+Player19
+21 547 8 0.0
+Player22
+Player23
+Player24
+Player29
+Player30
+Player31
+Player32
+Player37
+22 361 6 0.0
+Player41
+Player47
+Player49
+Player50
+Player53
+Player57

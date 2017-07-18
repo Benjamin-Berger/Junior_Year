@@ -1,0 +1,4 @@
+Backtracking: 4 90 2 0
+11 subsets considered : 5 avoided via backtracking
+Player0
+Player2

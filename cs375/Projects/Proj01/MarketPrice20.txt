@@ -1,0 +1,21 @@
+20
+Player0 11
+Player1 61
+Player2 111
+Player3 57
+Player4 87
+Player5 21
+Player6 67
+Player7 102
+Player8 112
+Player9 62
+Player10 48
+Player11 43
+Player12 57
+Player13 109
+Player14 51
+Player15 64
+Player16 17
+Player17 11
+Player18 102
+Player19 74

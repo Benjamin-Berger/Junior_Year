@@ -1,0 +1,7 @@
+6 32
+Player0 5
+Player1 9
+Player2 22
+Player3 10
+Player4 2
+Player5 9

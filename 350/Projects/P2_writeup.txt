@@ -1,0 +1,1 @@
+On all machines it has a cpu and wall clock time of 0.0000. This is probably because a multi threaded program will run much faster than other programs by default. 

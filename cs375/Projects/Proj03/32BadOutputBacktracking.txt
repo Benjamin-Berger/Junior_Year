@@ -1,0 +1,2 @@
+Backtracking: 32 0 0 0
+1 subsets considered : 4294967295 avoided via backtracking
